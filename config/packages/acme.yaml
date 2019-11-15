@@ -1,0 +1,2 @@
+acme_test:
+    email_sender: 'test@example.com'
